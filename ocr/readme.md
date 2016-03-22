@@ -1,1 +1,1 @@
-=== OCRed text 
+OCRed text files
